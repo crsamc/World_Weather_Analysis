@@ -8,5 +8,6 @@ Use input statements to retrieve customer weather preferences, then use those pr
 ![weatherpy_vacation_map](https://user-images.githubusercontent.com/101649525/180119446-630b5634-72d5-4084-a831-4aa47e76f100.png)
 ## Vacation Itinerary
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
+
 ![weatherpy_travel_map](https://user-images.githubusercontent.com/101649525/180119515-c6214dc0-8adc-4e03-9e0e-5e0e54dd58b5.png)
 ![weatherpy_travel_map_markers](https://user-images.githubusercontent.com/101649525/180119525-3d0007cb-32dd-4cae-bd24-cb22133344de.png)
